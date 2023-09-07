@@ -1,6 +1,6 @@
-#API REST EXPRESS
+# API REST EXPRESS
 
-##Completados
+## Completados
  - Token
  - RefreshToken
  - Usuarios
@@ -9,7 +9,7 @@
  - Schemas
  - Auth
 
-##Pendientes
+## Pendientes
  - Documentacion (SWAGGER)
  - Productos
  - Categorias
